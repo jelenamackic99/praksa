@@ -1,3 +1,5 @@
 Neki tekst ima ovdje
 Da
 Opet izmjena
+Opet opet izmjena
+Da mi jelena napravi konflikt
