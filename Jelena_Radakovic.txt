@@ -1,0 +1,2 @@
+Dodajemo jos novu liniju
+Primjer za git
