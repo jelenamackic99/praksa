@@ -1,2 +1,3 @@
 Marko Dunovic
 Ovo je izmjena
+Ovo je izmjena nakon merge-a
