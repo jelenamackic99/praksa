@@ -3,3 +3,7 @@ Neki tekst ima ovdje
 Da
 Opet izmjena
 Evo ti na kraju izmjena
+Opet opet izmjena
+Da mi jelena napravi konflikt
+KONFLIKT SA JELENOM
+
