@@ -3,3 +3,4 @@ Sadrzaj fajla moded
 appending 
 appending again
 safe
+appending , Mihajlo promijenio
