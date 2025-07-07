@@ -3,5 +3,7 @@ Nova izmjena
 Provjeravamo da li je modifikovano
 Dodajemo jos novu liniju 
 Primjer za git
+Izmjena na kraju
 Ja pravim konflikt sa Jelenom
 KONFLIKTNO JE JAKO
+
