@@ -1,0 +1,3 @@
+Provjeravamo da li je modifikovano
+Dodajemo jos novu liniju 
+Primjer za git
