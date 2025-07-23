@@ -1,0 +1,982 @@
+[
+  {
+    "ID": "c:system_stm32f4xx.c@3239@macro@HSE_VALUE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "HSE_VALUE",
+    "location": {
+      "column": "11",
+      "line": "69",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\system_stm32f4xx.c"
+    },
+    "name": "HSE_VALUE",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:system_stm32f4xx.c@3391@macro@HSI_VALUE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "HSI_VALUE",
+    "location": {
+      "column": "11",
+      "line": "73",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\system_stm32f4xx.c"
+    },
+    "name": "HSI_VALUE",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:system_stm32f4xx.c@3904@macro@VECT_TAB_OFFSET",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "VECT_TAB_OFFSET",
+    "location": {
+      "column": "9",
+      "line": "96",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\system_stm32f4xx.c"
+    },
+    "name": "VECT_TAB_OFFSET",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@SystemCoreClock",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "SystemCoreClock",
+    "location": {
+      "column": "10",
+      "line": "123",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\system_stm32f4xx.c"
+    },
+    "name": "SystemCoreClock",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@AHBPrescTable",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "AHBPrescTable",
+    "location": {
+      "column": "15",
+      "line": "124",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\system_stm32f4xx.c"
+    },
+    "name": "AHBPrescTable",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@APBPrescTable",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "APBPrescTable",
+    "location": {
+      "column": "15",
+      "line": "125",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\system_stm32f4xx.c"
+    },
+    "name": "APBPrescTable",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SystemInit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SystemInit(void)",
+    "location": {
+      "column": "6",
+      "line": "142",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\system_stm32f4xx.c"
+    },
+    "name": "SystemInit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SystemCoreClockUpdate",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SystemCoreClockUpdate(void)",
+    "location": {
+      "column": "6",
+      "line": "212",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\system_stm32f4xx.c"
+    },
+    "name": "SystemCoreClockUpdate",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@2816@macro@MASTER_BOARD",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "MASTER_BOARD",
+    "location": {
+      "column": "9",
+      "line": "54",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\main.c"
+    },
+    "name": "MASTER_BOARD",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@SpiHandle",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "SpiHandle",
+    "location": {
+      "column": "19",
+      "line": "58",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\main.c"
+    },
+    "name": "SpiHandle",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@UartHandle",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "UartHandle",
+    "location": {
+      "column": "20",
+      "line": "59",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\main.c"
+    },
+    "name": "UartHandle",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@3255@macro@PUTCHAR_PROTOTYPE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "PUTCHAR_PROTOTYPE",
+    "location": {
+      "column": "9",
+      "line": "67",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\main.c"
+    },
+    "name": "PUTCHAR_PROTOTYPE",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@3309@macro@GETCHAR_PROTOTYPE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GETCHAR_PROTOTYPE",
+    "location": {
+      "column": "9",
+      "line": "68",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\main.c"
+    },
+    "name": "GETCHAR_PROTOTYPE",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@aTxBuffer",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "aTxBuffer",
+    "location": {
+      "column": "9",
+      "line": "73",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\main.c"
+    },
+    "name": "aTxBuffer",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@aRxBuffer",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "aRxBuffer",
+    "location": {
+      "column": "9",
+      "line": "77",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\main.c"
+    },
+    "name": "aRxBuffer",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@F@SystemClock_Config",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void SystemClock_Config(void)",
+    "location": {
+      "column": "13",
+      "line": "80",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\main.c"
+    },
+    "name": "SystemClock_Config",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@F@Error_Handler",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void Error_Handler(void)",
+    "location": {
+      "column": "13",
+      "line": "81",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\main.c"
+    },
+    "name": "Error_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@F@Timeout_Error_Handler",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void Timeout_Error_Handler(void)",
+    "location": {
+      "column": "13",
+      "line": "82",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\main.c"
+    },
+    "name": "Timeout_Error_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@F@Buffercmp",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "int Buffercmp(int *, int *, int)",
+    "location": {
+      "column": "17",
+      "line": "83",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\main.c"
+    },
+    "name": "Buffercmp",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "6",
+      "line": "92",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@7490@F@main@i",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "i",
+    "location": {
+      "column": "7",
+      "line": "190",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\main.c"
+    },
+    "name": "i",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@7574@F@main@j",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "j",
+    "location": {
+      "column": "11",
+      "line": "195",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\main.c"
+    },
+    "name": "j",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@fputc",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int fputc(int, int *)",
+    "location": {
+      "column": "1",
+      "line": "270",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\main.c"
+    },
+    "name": "fputc",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@fgetc",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int fgetc(int *)",
+    "location": {
+      "column": "1",
+      "line": "279",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\main.c"
+    },
+    "name": "fgetc",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@F@Error_Handler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void Error_Handler(void)",
+    "location": {
+      "column": "13",
+      "line": "286",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\main.c"
+    },
+    "name": "Error_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@F@Timeout_Error_Handler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void Timeout_Error_Handler(void)",
+    "location": {
+      "column": "13",
+      "line": "300",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\main.c"
+    },
+    "name": "Timeout_Error_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@F@SystemClock_Config",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SystemClock_Config(void)",
+    "location": {
+      "column": "13",
+      "line": "333",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\main.c"
+    },
+    "name": "SystemClock_Config",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@F@Buffercmp",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int Buffercmp(int *, int *, int)",
+    "location": {
+      "column": "17",
+      "line": "385",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\main.c"
+    },
+    "name": "Buffercmp",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@2160@macro@__MAIN_H",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__MAIN_H",
+    "location": {
+      "column": "9",
+      "line": "38",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Inc\\main.h"
+    },
+    "name": "__MAIN_H",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@2349@macro@USARTx",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "USARTx",
+    "location": {
+      "column": "9",
+      "line": "46",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Inc\\main.h"
+    },
+    "name": "USARTx",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@2398@macro@USARTx_CLK_ENABLE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "USARTx_CLK_ENABLE",
+    "location": {
+      "column": "9",
+      "line": "47",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Inc\\main.h"
+    },
+    "name": "USARTx_CLK_ENABLE",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@2471@macro@USARTx_RX_GPIO_CLK_ENABLE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "USARTx_RX_GPIO_CLK_ENABLE",
+    "location": {
+      "column": "9",
+      "line": "48",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Inc\\main.h"
+    },
+    "name": "USARTx_RX_GPIO_CLK_ENABLE",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@2542@macro@USARTx_TX_GPIO_CLK_ENABLE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "USARTx_TX_GPIO_CLK_ENABLE",
+    "location": {
+      "column": "9",
+      "line": "49",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Inc\\main.h"
+    },
+    "name": "USARTx_TX_GPIO_CLK_ENABLE",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@2615@macro@USARTx_FORCE_RESET",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "USARTx_FORCE_RESET",
+    "location": {
+      "column": "9",
+      "line": "51",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Inc\\main.h"
+    },
+    "name": "USARTx_FORCE_RESET",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@2688@macro@USARTx_RELEASE_RESET",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "USARTx_RELEASE_RESET",
+    "location": {
+      "column": "9",
+      "line": "52",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Inc\\main.h"
+    },
+    "name": "USARTx_RELEASE_RESET",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@2799@macro@USARTx_TX_PIN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "USARTx_TX_PIN",
+    "location": {
+      "column": "9",
+      "line": "55",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Inc\\main.h"
+    },
+    "name": "USARTx_TX_PIN",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@2852@macro@USARTx_TX_GPIO_PORT",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "USARTx_TX_GPIO_PORT",
+    "location": {
+      "column": "9",
+      "line": "56",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Inc\\main.h"
+    },
+    "name": "USARTx_TX_GPIO_PORT",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@2900@macro@USARTx_TX_AF",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "USARTx_TX_AF",
+    "location": {
+      "column": "9",
+      "line": "57",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Inc\\main.h"
+    },
+    "name": "USARTx_TX_AF",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@2958@macro@USARTx_RX_PIN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "USARTx_RX_PIN",
+    "location": {
+      "column": "9",
+      "line": "58",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Inc\\main.h"
+    },
+    "name": "USARTx_RX_PIN",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@3011@macro@USARTx_RX_GPIO_PORT",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "USARTx_RX_GPIO_PORT",
+    "location": {
+      "column": "9",
+      "line": "59",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Inc\\main.h"
+    },
+    "name": "USARTx_RX_GPIO_PORT",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@3059@macro@USARTx_RX_AF",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "USARTx_RX_AF",
+    "location": {
+      "column": "9",
+      "line": "60",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Inc\\main.h"
+    },
+    "name": "USARTx_RX_AF",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@3417@macro@SPIx",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SPIx",
+    "location": {
+      "column": "9",
+      "line": "67",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Inc\\main.h"
+    },
+    "name": "SPIx",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@3464@macro@SPIx_CLK_ENABLE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SPIx_CLK_ENABLE",
+    "location": {
+      "column": "9",
+      "line": "68",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Inc\\main.h"
+    },
+    "name": "SPIx_CLK_ENABLE",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@3534@macro@SPIx_SCK_GPIO_CLK_ENABLE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SPIx_SCK_GPIO_CLK_ENABLE",
+    "location": {
+      "column": "9",
+      "line": "69",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Inc\\main.h"
+    },
+    "name": "SPIx_SCK_GPIO_CLK_ENABLE",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@3605@macro@SPIx_MISO_GPIO_CLK_ENABLE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SPIx_MISO_GPIO_CLK_ENABLE",
+    "location": {
+      "column": "9",
+      "line": "70",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Inc\\main.h"
+    },
+    "name": "SPIx_MISO_GPIO_CLK_ENABLE",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@3676@macro@SPIx_MOSI_GPIO_CLK_ENABLE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SPIx_MOSI_GPIO_CLK_ENABLE",
+    "location": {
+      "column": "9",
+      "line": "71",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Inc\\main.h"
+    },
+    "name": "SPIx_MOSI_GPIO_CLK_ENABLE",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@3749@macro@SPIx_FORCE_RESET",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SPIx_FORCE_RESET",
+    "location": {
+      "column": "9",
+      "line": "73",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Inc\\main.h"
+    },
+    "name": "SPIx_FORCE_RESET",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@3820@macro@SPIx_RELEASE_RESET",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SPIx_RELEASE_RESET",
+    "location": {
+      "column": "9",
+      "line": "74",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Inc\\main.h"
+    },
+    "name": "SPIx_RELEASE_RESET",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@3927@macro@SPIx_SCK_PIN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SPIx_SCK_PIN",
+    "location": {
+      "column": "9",
+      "line": "77",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Inc\\main.h"
+    },
+    "name": "SPIx_SCK_PIN",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@3980@macro@SPIx_SCK_GPIO_PORT",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SPIx_SCK_GPIO_PORT",
+    "location": {
+      "column": "9",
+      "line": "78",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Inc\\main.h"
+    },
+    "name": "SPIx_SCK_GPIO_PORT",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@4028@macro@SPIx_SCK_AF",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SPIx_SCK_AF",
+    "location": {
+      "column": "9",
+      "line": "79",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Inc\\main.h"
+    },
+    "name": "SPIx_SCK_AF",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@4084@macro@SPIx_MISO_PIN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SPIx_MISO_PIN",
+    "location": {
+      "column": "9",
+      "line": "80",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Inc\\main.h"
+    },
+    "name": "SPIx_MISO_PIN",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@4137@macro@SPIx_MISO_GPIO_PORT",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SPIx_MISO_GPIO_PORT",
+    "location": {
+      "column": "9",
+      "line": "81",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Inc\\main.h"
+    },
+    "name": "SPIx_MISO_GPIO_PORT",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@4185@macro@SPIx_MISO_AF",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SPIx_MISO_AF",
+    "location": {
+      "column": "9",
+      "line": "82",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Inc\\main.h"
+    },
+    "name": "SPIx_MISO_AF",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@4241@macro@SPIx_MOSI_PIN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SPIx_MOSI_PIN",
+    "location": {
+      "column": "9",
+      "line": "83",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Inc\\main.h"
+    },
+    "name": "SPIx_MOSI_PIN",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@4294@macro@SPIx_MOSI_GPIO_PORT",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SPIx_MOSI_GPIO_PORT",
+    "location": {
+      "column": "9",
+      "line": "84",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Inc\\main.h"
+    },
+    "name": "SPIx_MOSI_GPIO_PORT",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@4342@macro@SPIx_MOSI_AF",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SPIx_MOSI_AF",
+    "location": {
+      "column": "9",
+      "line": "85",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Inc\\main.h"
+    },
+    "name": "SPIx_MOSI_AF",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@4422@macro@BUFFERSIZE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "BUFFERSIZE",
+    "location": {
+      "column": "9",
+      "line": "88",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Inc\\main.h"
+    },
+    "name": "BUFFERSIZE",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main.h@4573@macro@COUNTOF",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "COUNTOF",
+    "location": {
+      "column": "9",
+      "line": "91",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Inc\\main.h"
+    },
+    "name": "COUNTOF",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@HAL_SPI_MspInit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void HAL_SPI_MspInit(int *)",
+    "location": {
+      "column": "6",
+      "line": "66",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\stm32f4xx_hal_msp.c"
+    },
+    "name": "HAL_SPI_MspInit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@HAL_SPI_MspDeInit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void HAL_SPI_MspDeInit(int *)",
+    "location": {
+      "column": "6",
+      "line": "109",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\stm32f4xx_hal_msp.c"
+    },
+    "name": "HAL_SPI_MspDeInit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@NMI_Handler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void NMI_Handler(void)",
+    "location": {
+      "column": "6",
+      "line": "66",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\stm32f4xx_it.c"
+    },
+    "name": "NMI_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@HardFault_Handler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void HardFault_Handler(void)",
+    "location": {
+      "column": "6",
+      "line": "75",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\stm32f4xx_it.c"
+    },
+    "name": "HardFault_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MemManage_Handler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void MemManage_Handler(void)",
+    "location": {
+      "column": "6",
+      "line": "88",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\stm32f4xx_it.c"
+    },
+    "name": "MemManage_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@BusFault_Handler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void BusFault_Handler(void)",
+    "location": {
+      "column": "6",
+      "line": "101",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\stm32f4xx_it.c"
+    },
+    "name": "BusFault_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@UsageFault_Handler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void UsageFault_Handler(void)",
+    "location": {
+      "column": "6",
+      "line": "114",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\stm32f4xx_it.c"
+    },
+    "name": "UsageFault_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SVC_Handler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SVC_Handler(void)",
+    "location": {
+      "column": "6",
+      "line": "127",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\stm32f4xx_it.c"
+    },
+    "name": "SVC_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@DebugMon_Handler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void DebugMon_Handler(void)",
+    "location": {
+      "column": "6",
+      "line": "136",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\stm32f4xx_it.c"
+    },
+    "name": "DebugMon_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@PendSV_Handler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void PendSV_Handler(void)",
+    "location": {
+      "column": "6",
+      "line": "145",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\stm32f4xx_it.c"
+    },
+    "name": "PendSV_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SysTick_Handler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SysTick_Handler(void)",
+    "location": {
+      "column": "6",
+      "line": "154",
+      "path": "C:\\Users\\student\\Downloads\\Ljetna Skola 2025 - embeded\\stm32f4 cube\\STM32Cube_FW_F4_V1.25.0\\Utilities\\Projects\\STM32F446ZE-Nucleo\\Examples\\SPI\\SPI_FullDuplex_ComPolling\\Src\\stm32f4xx_it.c"
+    },
+    "name": "SysTick_Handler",
+    "origin": "project_file",
+    "scope": null
+  }
+]

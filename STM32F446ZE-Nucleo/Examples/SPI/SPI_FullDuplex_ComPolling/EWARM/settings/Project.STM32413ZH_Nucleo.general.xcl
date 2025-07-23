@@ -1,0 +1,15 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\bin\armstlink2.dll" 
+
+"C:\Users\student\Downloads\Ljetna Skola 2025 - embeded\stm32f4 cube\STM32Cube_FW_F4_V1.25.0\Utilities\Projects\STM32F446ZE-Nucleo\Examples\SPI\SPI_FullDuplex_ComPolling\EWARM\STM32413ZH_Nucleo\Exe\Project.out" 
+
+--plugin="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\bin\armbat.dll" 
+
+--device_macro="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+--flash_loader="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\config\flashloader\ST\FlashSTM32F446xE.board" 
+
+
+
+
