@@ -1,0 +1,18 @@
+from kivy.app import App
+from kivy.uix.label import Label
+
+
+class MyApp(App):
+    def build(self):
+        self.label = Label(
+            text='Hello world',
+            font_size=100,
+            size_hint=(1, 1), #preko cijelog prozora
+            halign='center',
+            valign='top'
+        )
+        return self.label
+
+
+if __name__ == '__main__':
+    MyApp().run()
